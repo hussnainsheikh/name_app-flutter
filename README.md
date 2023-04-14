@@ -1,3 +1,3 @@
 # name_app
 
-A new Flutter project.
+Created for learning purpose. Following flutter Codelab.
